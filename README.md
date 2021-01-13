@@ -10,35 +10,35 @@ In this new analysis the purpose is to create a summary DataFrame of the ride-sh
 
 ![](Analysis/Challenge_summary.png)
 
-#### We can condlude that Urban cities generate the most revenue comopared to Rural and Suburban.
+* #### We can condlude that Urban cities generate the most revenue comopared to Rural and Suburban.
 
 ![](Analysis/Fig1.png)
 
-####  This chart clearly displays that drivers in Urban cities recieve a larger amount of rides but at a lower average fair where as Rural city drivers recieve less number of rides but the average fair is much higher and suburban city drivers are the middle ground between the two.
+* ####  This chart clearly displays that drivers in Urban cities recieve a larger amount of rides but at a lower average fair where as Rural city drivers recieve less number of rides but the average fair is much higher and suburban city drivers are the middle ground between the two.
 
 ![](Analysis/Fig2.png)
 
-#### This box-plot clearly shows that Urban cities receieve the most amount of rides with Suburban coming in second and Rural being last.
+* #### This box-plot clearly shows that Urban cities receieve the most amount of rides with Suburban coming in second and Rural being last.
 
 ![](Analysis/Fig3.png)
 
-#### This box-plot clearly shows that Rural cities receieve the most amount of money per ride with Suburban coming in second and Urban being last.
+* #### This box-plot clearly shows that Rural cities receieve the most amount of money per ride with Suburban coming in second and Urban being last.
 
 ![](Analysis/Fig4.png)
 
-#### Based on this box plot it clear that Urban cities have the most drivers with suburban being second and rural having the least amount.
+* #### Based on this box plot it clear that Urban cities have the most drivers with suburban being second and rural having the least amount.
 
 ![](Analysis/Fig5.png)
 
-#### This pie chart is another way of show that Urban cities have the highest percentenage of fairs with Suburban being second and Rural last.
+* #### This pie chart is another way of show that Urban cities have the highest percentenage of fairs with Suburban being second and Rural last.
 
 ![](Analysis/Fig6.png)
 
-#### This pie chart is another way of show that Urban cities have the highest percentenage of rides with Suburban being second and Rural last.
+* #### This pie chart is another way of show that Urban cities have the highest percentenage of rides with Suburban being second and Rural last.
 
 ![](Analysis/Fig7.png)
 
-#### This pie chart is another way of show that Urban cities have the highest percentenage of drivers with Suburban being second and Rural last.
+* #### This pie chart is another way of show that Urban cities have the highest percentenage of drivers with Suburban being second and Rural last.
 
 
 
