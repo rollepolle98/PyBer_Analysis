@@ -8,34 +8,34 @@ In this new analysis the goal is to create a summary DataFrame of the ride-shari
 
 ### Challenge Summary
 
-![](Analysis/challenge_summary.png)
+![](Analysis/Challenge_summary.png)
 
 ### Pyber Ride-Shareing Data (2019)
 
-![](Analysis/Fig1_summary.png)
+![](Analysis/Fig1.png)
 
 ### Ride Count Data (2019)
 
-![](Analysis/Fig2_summary.png)
+![](Analysis/Fig2.png)
 
 ### Ride Fare Data (2019)
 
-![](Analysis/Fig3_summary.png)
+![](Analysis/Fig3.png)
 
 ### Driver Count Data (2019)
 
-![](Analysis/Fig4_summary.png)
+![](Analysis/Fig4.png)
 
 ### Pie Chart of % of Total Fares by City Type
 
-![](Analysis/Fig5_summary.png)
+![](Analysis/Fig5.png)
 
 ### Pie Chart of % of Total Rides by City Type
 
-![](Analysis/Fig6_summary.png)
+![](Analysis/Fig6.png)
 
 ### Pie Chart of % of Total Drivers by City Type
 
-![](Analysis/Fig7_summary.png)
+![](Analysis/Fig7.png)
 
 ## Summary
